@@ -1,3 +1,4 @@
+require "pry"
 # The Glass is where the ingredients will go and what's
 # transported around the ship as the drink is made.
 # When this is instatiated, it should set its temperature
